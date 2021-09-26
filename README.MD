@@ -10,6 +10,6 @@
 - Identify three ways you can include your CSS styles in a page
 - Understand how to use classes and ids to target CSS at specific elements on the page
 
-### [Please, click here to check live perview](#)
+### [Please, click here to check live perview](https://rys86.github.io/odin-recipies/)
 
 #### Enjoy!
